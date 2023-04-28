@@ -14,7 +14,7 @@ recolectados en la práctica 1.
 
 • Clasificador texto: los alumnos deberán entrenar un modelo de
 clasificación de texto, para distinguir entre sinopsis de “horror” y
-comedia en Español.
+"comedia" en Español.
 
 • Clasificador de imágenes: los alumnos deberán entrenar un modelo de
 clasificación de imágenes, para ser capaces de clasificar entre las
