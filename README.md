@@ -15,6 +15,7 @@ recolectados en la práctica 1.
 • Clasificador texto: los alumnos deberán entrenar un modelo de
 clasificación de texto, para distinguir entre sinopsis de “horror” y
 comedia en Español.
+
 • Clasificador de imágenes: los alumnos deberán entrenar un modelo de
 clasificación de imágenes, para ser capaces de clasificar entre las
 diferentes clases que recolectaron de Wallapop.
@@ -23,6 +24,7 @@ diferentes clases que recolectaron de Wallapop.
 
 • Texto: Se pueden usar técnicas clásicas como BOW, o probar técnicas
 más avanzadas de extracción de características de los textos.
+
 • Imagen: Se deberá usar un modelo pre-entrenado para la extracción de
 características, hay muchos modelos disponibles, la elección es libre de
 cada grupo (https://keras.io/api/applications/).
@@ -45,5 +47,7 @@ Unidad 2 “Front ML model”.
 ## 5. Entrega:
 
 • La entrega se evaluará mediante:
+
 • Un zip con el código y los modelos.
+
 • La revisión del cumplimento de los objetivos
